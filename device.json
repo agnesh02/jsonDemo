@@ -1,0 +1,47 @@
+[
+  {
+    "Item": "iPhone8",
+    "Location": "Kochi",
+    "Description": "In stock",
+    "Quantity": 2,
+    "Latitude": 9.9312,
+    "Longitude": 76.2673,
+    "Image": "https://www.refurbkart.com/cdn/shop/products/IPHONE8-1_grande.jpg?v=1656310480"
+  },
+  {
+    "Item": "Samsung Galaxy S10",
+    "Location": "New York",
+    "Description": "In stock",
+    "Quantity": 5,
+    "Latitude": 40.7128,
+    "Longitude": -74.0060,
+    "Image": "https://m.media-amazon.com/images/I/51WMo-JRiSL._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "Item": "MacBook Pro",
+    "Location": "San Francisco",
+    "Description": "In stock",
+    "Quantity": 3,
+    "Latitude": 37.7749,
+    "Longitude": -122.4194,
+    "Image": "https://www.aptronixindia.com/media/catalog/product/cache/31f0162e6f7d821d2237f39577122a8a/m/b/mbp-spacegray-select-202206-removebg-preview_1_.png"
+  },
+  {
+    "Item": "Dell XPS 13",
+    "Location": "London",
+    "Description": "In stock",
+    "Quantity": 4,
+    "Latitude": 51.5074,
+    "Longitude": -0.1278,
+    "Image": "https://pctech.co.in/image/cache/catalog/Laptops/DELL/dell-xps-13-9315-2in1-blue-1-800x800w.jpg"
+  },
+  {
+    "Item": "iPad Air",
+    "Location": "Tokyo",
+    "Description": "In stock",
+    "Quantity": 6,
+    "Latitude": 35.6895,
+    "Longitude": 139.6917,
+    "Image": "https://v9t7k9q5.rocketcdn.me/wp-content/uploads/2022/03/apple-ipad-air-2022-5-gen-purpura-2-600x600.png"
+  }
+]
